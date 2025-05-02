@@ -1,0 +1,34 @@
+Is there an entity named something like {CLASS} in the {PROJECT}?
+Is there an entity named something like {PACKAGE} in the {PROJECT}?
+Is there an entity named something like {METHOD} in the {PROJECT}?
+Is there an entity named something like {CLASS} in the {PACKAGE}?
+Is there an entity named something like {METHOD} in the {PACKAGE}?
+Is there an entity named something like {METHOD} in the {CLASS}?
+What are the parts of this repo {PROJECT}?
+What are the parts of this package {PACKAGE}?
+What are the parts of this class {CLASS}?
+How are instances of class {CLASS} created and assembled?
+Who modified this package {PACKAGE} most recently?
+Who modified this class {CLASS} most recently?
+When was this package {PACKAGE} last modified?
+When was this class {CLASS} last modified?
+What does this repo {PROJECT} do?
+What was done in the most recent modification to this repo {PROJECT}?
+What was done in the most recent modification to this package {PACKAGE}?
+What was done in the most recent modification to this class {CLASS}?
+Where is this package {PACKAGE} declared in the type hierarchy?
+Where is this class {CLASS} declared in the type hierarchy?
+Where is this method {METHOD} declared in the type hierarchy?
+Where is this package {PACKAGE} referenced?
+Where is this class {CLASS} called or type referenced?
+Where is this method {METHOD} called?
+Under what circumstances is this package {PACKAGE} used?
+Under what circumstances is this class {CLASS} used?
+Under what circumstances is this method {METHOD} called?
+What are the differences between these two files: File 1: {FILES}, File2: {FILES}?
+What are the differences between these two classes: Class 1: {CLASS}, Class 2: {CLASS}?
+What is the difference between these similar parts of the code: Method 1: {METHOD}, Method 2: {METHOD}?
+How can we know this object {CLASS} has been created and initialized correctly?
+How are these types or objects related (e.g., whole-part relationships)?
+What are the arguments to this class's constructor {CLASS}, if any?
+What are the arguments to this method {METHOD}, if any?

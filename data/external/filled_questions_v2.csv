@@ -1,0 +1,171 @@
+id,project,question_id,customized_quesstion
+1,wg/scrypt,1,Is there an entity named something like SCrypt in the wg/scrypt?
+2,wg/scrypt,2,Is there an entity named something like package com.lambdaworks.jni in the wg/scrypt?
+3,wg/scrypt,3,Is there an entity named something like loadSigned in the wg/scrypt?
+4,wg/scrypt,4,Is there an entity named something like PBKDFTest in the package com.lambdaworks.jni.test?
+5,wg/scrypt,5,Is there an entity named something like blockmix_salsa8 in the package com.lambdaworks.jni?
+6,wg/scrypt,6,Is there an entity named something like loader in the PBKDF?
+7,wg/scrypt,7,What are the parts of this repo wg/scrypt?
+8,wg/scrypt,8,What are the parts of this package package com.lambdaworks.jni?
+9,wg/scrypt,9,What are the parts of this class SCrypt?
+10,wg/scrypt,10,How are instances of class JarLibraryLoaderTest created and assembled?
+11,wg/scrypt,11,Who modified this package package com.lambdaworks.jni most recently?
+12,wg/scrypt,12,Who modified this class PBKDFTest most recently?
+13,wg/scrypt,13,When was this package package com.lambdaworks.jni.test last modified?
+14,wg/scrypt,14,When was this class PBKDF last modified?
+15,wg/scrypt,15,What does this repo wg/scrypt do?
+16,wg/scrypt,16,What was done in the most recent modification to this repo wg/scrypt?
+17,wg/scrypt,17,What was done in the most recent modification to this package package com.lambdaworks.crypto?
+18,wg/scrypt,18,What was done in the most recent modification to this class LibraryLoaders?
+19,wg/scrypt,19,Where is this package package com.lambdaworks.codec declared in the type hierarchy?
+20,wg/scrypt,20,Where is this class CryptoTestUtil declared in the type hierarchy?
+21,wg/scrypt,21,Where is this method loadSigned declared in the type hierarchy?
+22,wg/scrypt,22,Where is this package package com.lambdaworks.jni.test referenced?
+23,wg/scrypt,23,Where is this class SCryptUtilTest called or type referenced?
+24,wg/scrypt,24,Where is this method setPlatform called?
+25,wg/scrypt,25,Under what circumstances is this package package com.lambdaworks.jni.test used?
+26,wg/scrypt,26,Under what circumstances is this class PBKDF used?
+27,wg/scrypt,27,Under what circumstances is this method unsupported called?
+28,wg/scrypt,28,"What are the differences between these two files: File 1: CryptoTestUtil.java, File2: SCryptTest.java?"
+29,wg/scrypt,29,"What are the differences between these two classes: Class 1: CryptoTestUtil, Class 2: Base64?"
+30,wg/scrypt,30,"What is the difference between these similar parts of the code: Method 1: decode, Method 2: hexValue?"
+31,wg/scrypt,31,How can we know this object Platform has been created and initialized correctly?
+32,wg/scrypt,32,"How are these types or objects related (e.g., whole-part relationships)?"
+33,wg/scrypt,33,"What are the arguments to this class's constructor PBKDF, if any?"
+34,wg/scrypt,34,"What are the arguments to this method encode, if any?"
+35,groovy/groovy-core,1,Is there an entity named something like PojoCachedMethodSiteNoUnwrapNoCoerce in the groovy/groovy-core?
+36,groovy/groovy-core,2,Is there an entity named something like package org.codehaus.groovy.classgen in the groovy/groovy-core?
+37,groovy/groovy-core,3,Is there an entity named something like createConstructor in the groovy/groovy-core?
+38,groovy/groovy-core,4,Is there an entity named something like RootLoaderRef in the package groovy?
+39,groovy/groovy-core,5,Is there an entity named something like invokeCustom in the package org.codehaus.groovy.transform.sc.transformers?
+40,groovy/groovy-core,6,Is there an entity named something like createPojoCallSite in the ConstantMetaClassVersioning?
+41,groovy/groovy-core,7,What are the parts of this repo groovy/groovy-core?
+42,groovy/groovy-core,8,What are the parts of this package package groovy?
+43,groovy/groovy-core,9,What are the parts of this class MethodCallerMultiAdapter?
+44,groovy/groovy-core,10,How are instances of class RunClosureTest created and assembled?
+45,groovy/groovy-core,11,Who modified this package package org.codehaus.groovy.classgen most recently?
+46,groovy/groovy-core,12,Who modified this class AbstractFactory most recently?
+47,groovy/groovy-core,13,When was this package package org.codehaus.groovy.control last modified?
+48,groovy/groovy-core,14,When was this class ForTest last modified?
+49,groovy/groovy-core,15,What does this repo groovy/groovy-core do?
+50,groovy/groovy-core,16,What was done in the most recent modification to this repo groovy/groovy-core?
+51,groovy/groovy-core,17,What was done in the most recent modification to this package package org.codehaus.groovy.ast?
+52,groovy/groovy-core,18,What was done in the most recent modification to this class ClassHelper?
+53,groovy/groovy-core,19,Where is this package package org.codehaus.groovy.runtime declared in the type hierarchy?
+54,groovy/groovy-core,20,Where is this class MetaMethodSite declared in the type hierarchy?
+55,groovy/groovy-core,21,Where is this method getReturnType declared in the type hierarchy?
+56,groovy/groovy-core,22,Where is this package package org.codehaus.groovy.runtime referenced?
+57,groovy/groovy-core,23,Where is this class ManagedDoubleKeyMap called or type referenced?
+58,groovy/groovy-core,24,Where is this method getClassNode called?
+59,groovy/groovy-core,25,Under what circumstances is this package package groovy.util used?
+60,groovy/groovy-core,26,Under what circumstances is this class InvokeGroovyMethodTest used?
+61,groovy/groovy-core,27,Under what circumstances is this method containsKey called?
+62,groovy/groovy-core,28,"What are the differences between these two files: File 1: NewifyASTTransformation.java, File2: StaticTypesClosureWriter.java?"
+63,groovy/groovy-core,29,"What are the differences between these two classes: Class 1: ImportNode, Class 2: DefaultRelationNameResolver?"
+64,groovy/groovy-core,30,"What is the difference between these similar parts of the code: Method 1: iterator, Method 2: toArray?"
+65,groovy/groovy-core,31,How can we know this object IntWrapper has been created and initialized correctly?
+66,groovy/groovy-core,32,"How are these types or objects related (e.g., whole-part relationships)?"
+67,groovy/groovy-core,33,"What are the arguments to this class's constructor AstBuilderTransformation, if any?"
+68,groovy/groovy-core,34,"What are the arguments to this method getUpperBounds, if any?"
+69,joestelmach/natty,1,Is there an entity named something like Parser in the joestelmach/natty?
+70,joestelmach/natty,2,Is there an entity named something like package com.joestelmach.natty in the joestelmach/natty?
+71,joestelmach/natty,3,Is there an entity named something like getParseLocations in the joestelmach/natty?
+72,joestelmach/natty,4,Is there an entity named something like DateTimeTest in the package com.joestelmach.natty?
+73,joestelmach/natty,5,Is there an entity named something like formal_year_four_digits in the package com.joestelmach.natty.grammar?
+74,joestelmach/natty,6,Is there an entity named something like relaxed_year in the TimeTest?
+75,joestelmach/natty,7,What are the parts of this repo joestelmach/natty?
+76,joestelmach/natty,8,What are the parts of this package package com.joestelmach.natty?
+77,joestelmach/natty,9,What are the parts of this class DateTimeTest?
+78,joestelmach/natty,10,How are instances of class TimeZoneTest created and assembled?
+79,joestelmach/natty,11,Who modified this package package com.joestelmach.natty.grammar most recently?
+80,joestelmach/natty,12,Who modified this class ANTLRNoCaseInputStream most recently?
+81,joestelmach/natty,13,When was this package package com.joestelmach.natty last modified?
+82,joestelmach/natty,14,When was this class AbstractGrammarTest last modified?
+83,joestelmach/natty,15,What does this repo joestelmach/natty do?
+84,joestelmach/natty,16,What was done in the most recent modification to this repo joestelmach/natty?
+85,joestelmach/natty,17,What was done in the most recent modification to this package package com.joestelmach.natty?
+86,joestelmach/natty,18,What was done in the most recent modification to this class TimeZoneTest?
+87,joestelmach/natty,19,Where is this package package com.joestelmach.natty.grammar declared in the type hierarchy?
+88,joestelmach/natty,20,Where is this class TimeGrammarTest declared in the type hierarchy?
+89,joestelmach/natty,21,Where is this method testRelative declared in the type hierarchy?
+90,joestelmach/natty,22,Where is this package package com.joestelmach.natty referenced?
+91,joestelmach/natty,23,Where is this class IcsTest called or type referenced?
+92,joestelmach/natty,24,Where is this method setRuleName called?
+93,joestelmach/natty,25,Under what circumstances is this package package com.joestelmach.natty used?
+94,joestelmach/natty,26,Under what circumstances is this class Parser used?
+95,joestelmach/natty,27,Under what circumstances is this method meridian_indicator called?
+96,joestelmach/natty,28,"What are the differences between these two files: File 1: Season.java, File2: HolidayGrammarTest.java?"
+97,joestelmach/natty,29,"What are the differences between these two classes: Class 1: NattyTokenSource, Class 2: CPANTest?"
+98,joestelmach/natty,30,"What is the difference between these similar parts of the code: Method 1: validateDateTime, Method 2: validateTime?"
+99,joestelmach/natty,31,How can we know this object DateTimeTest has been created and initialized correctly?
+100,joestelmach/natty,32,"How are these types or objects related (e.g., whole-part relationships)?"
+101,joestelmach/natty,33,"What are the arguments to this class's constructor RecurrenceTest, if any?"
+102,joestelmach/natty,34,"What are the arguments to this method setRuleName, if any?"
+103,sstrickx/yahoofinance-api,1,Is there an entity named something like YahooFinanceDispatcher in the sstrickx/yahoofinance-api?
+104,sstrickx/yahoofinance-api,2,Is there an entity named something like package yahoofinance.mock in the sstrickx/yahoofinance-api?
+105,sstrickx/yahoofinance-api,3,Is there an entity named something like fxQuoteTest in the sstrickx/yahoofinance-api?
+106,sstrickx/yahoofinance-api,4,Is there an entity named something like FxQuoteRequestTest in the package yahoofinance.query2v8?
+107,sstrickx/yahoofinance-api,5,Is there an entity named something like getAnnualYield in the package yahoofinance.quotes.csv?
+108,sstrickx/yahoofinance-api,6,Is there an entity named something like getPercent in the StockQuotesQuery1V7Request?
+109,sstrickx/yahoofinance-api,7,What are the parts of this repo sstrickx/yahoofinance-api?
+110,sstrickx/yahoofinance-api,8,What are the parts of this package package yahoofinance.quotes.csv?
+111,sstrickx/yahoofinance-api,9,What are the parts of this class FxSymbols?
+112,sstrickx/yahoofinance-api,10,How are instances of class HistDividendsRequest created and assembled?
+113,sstrickx/yahoofinance-api,11,Who modified this package package yahoofinance.histquotes most recently?
+114,sstrickx/yahoofinance-api,12,Who modified this class HistoricalQuoteRequestTest most recently?
+115,sstrickx/yahoofinance-api,13,When was this package package yahoofinance.quotes.fx last modified?
+116,sstrickx/yahoofinance-api,14,When was this class StockQuotesQuery1V7Request last modified?
+117,sstrickx/yahoofinance-api,15,What does this repo sstrickx/yahoofinance-api do?
+118,sstrickx/yahoofinance-api,16,What was done in the most recent modification to this repo sstrickx/yahoofinance-api?
+119,sstrickx/yahoofinance-api,17,What was done in the most recent modification to this package package yahoofinance.util?
+120,sstrickx/yahoofinance-api,18,What was done in the most recent modification to this class StockQuote?
+121,sstrickx/yahoofinance-api,19,Where is this package package yahoofinance.histquotes2 declared in the type hierarchy?
+122,sstrickx/yahoofinance-api,20,Where is this class Utils declared in the type hierarchy?
+123,sstrickx/yahoofinance-api,21,Where is this method getDate declared in the type hierarchy?
+124,sstrickx/yahoofinance-api,22,Where is this package package yahoofinance.quotes.csv referenced?
+125,sstrickx/yahoofinance-api,23,Where is this class HistQuotes2Request called or type referenced?
+126,sstrickx/yahoofinance-api,24,Where is this method  called?
+127,sstrickx/yahoofinance-api,25,Under what circumstances is this package package yahoofinance.histquotes used?
+128,sstrickx/yahoofinance-api,26,Under what circumstances is this class Stock used?
+129,sstrickx/yahoofinance-api,27,Under what circumstances is this method get called?
+130,sstrickx/yahoofinance-api,28,"What are the differences between these two files: File 1: HistQuotesRequest.java, File2: HistDividendsRequest.java?"
+131,sstrickx/yahoofinance-api,29,"What are the differences between these two classes: Class 1: HistQuotesRequest, Class 2: ResponseResource?"
+132,sstrickx/yahoofinance-api,30,"What is the difference between these similar parts of the code: Method 1: get, Method 2: get?"
+133,sstrickx/yahoofinance-api,31,How can we know this object RedirectableRequest has been created and initialized correctly?
+134,sstrickx/yahoofinance-api,32,"How are these types or objects related (e.g., whole-part relationships)?"
+135,sstrickx/yahoofinance-api,33,"What are the arguments to this class's constructor HistQuotes2Request, if any?"
+136,sstrickx/yahoofinance-api,34,"What are the arguments to this method getProtocolRedirectLimit, if any?"
+137,pedrovgs/Renderers,1,Is there an entity named something like RecyclerViewListAdapterActivity in the pedrovgs/Renderers?
+138,pedrovgs/Renderers,2,Is there an entity named something like package com.pedrogomez.renderers in the pedrovgs/Renderers?
+139,pedrovgs/Renderers,3,Is there an entity named something like renderMarker in the pedrovgs/Renderers?
+140,pedrovgs/Renderers,4,Is there an entity named something like RecyclerViewAdapterActivity in the package com.pedrogomez.renderers?
+141,pedrovgs/Renderers,5,Is there an entity named something like setList in the package com.pedrogomez.renderers.sample.ui.renderers?
+142,pedrovgs/Renderers,6,Is there an entity named something like initListView in the Video?
+143,pedrovgs/Renderers,7,What are the parts of this repo pedrovgs/Renderers?
+144,pedrovgs/Renderers,8,What are the parts of this package package com.pedrogomez.renderers.sample.ui?
+145,pedrovgs/Renderers,9,What are the parts of this class StringRenderer?
+146,pedrovgs/Renderers,10,How are instances of class RandomVideoCollectionGenerator created and assembled?
+147,pedrovgs/Renderers,11,Who modified this package package com.pedrogomez.renderers.exception most recently?
+148,pedrovgs/Renderers,12,Who modified this class NullParentException most recently?
+149,pedrovgs/Renderers,13,When was this package package com.pedrogomez.renderers.exception last modified?
+150,pedrovgs/Renderers,14,When was this class RecyclerViewListAdapterActivity last modified?
+151,pedrovgs/Renderers,15,What does this repo pedrovgs/Renderers do?
+152,pedrovgs/Renderers,16,What was done in the most recent modification to this repo pedrovgs/Renderers?
+153,pedrovgs/Renderers,17,What was done in the most recent modification to this package package com.pedrogomez.renderers?
+154,pedrovgs/Renderers,18,What was done in the most recent modification to this class RendererAdapterTest?
+155,pedrovgs/Renderers,19,Where is this package package com.pedrogomez.renderers declared in the type hierarchy?
+156,pedrovgs/Renderers,20,Where is this class DefaultDiffUtilItemCallback declared in the type hierarchy?
+157,pedrovgs/Renderers,21,Where is this method setUpView declared in the type hierarchy?
+158,pedrovgs/Renderers,22,Where is this package package com.pedrogomez.renderers.sample.ui referenced?
+159,pedrovgs/Renderers,23,Where is this class ObjectRenderer called or type referenced?
+160,pedrovgs/Renderers,24,Where is this method shouldAddElementToList called?
+161,pedrovgs/Renderers,25,Under what circumstances is this package package com.pedrogomez.renderers.sample.ui.renderers used?
+162,pedrovgs/Renderers,26,Under what circumstances is this class RandomVideoCollectionGenerator used?
+163,pedrovgs/Renderers,27,Under what circumstances is this method shouldThrowNullPrototypeClassExceptionIfRendererBuilderImplementationReturnsNullPrototypeClassAndGetItemViewType called?
+164,pedrovgs/Renderers,28,"What are the differences between these two files: File 1: ListViewActivity.java, File2: VideoRenderer.java?"
+165,pedrovgs/Renderers,29,"What are the differences between these two classes: Class 1: RVListRendererAdapter, Class 2: RVListRendererAdapterTest?"
+166,pedrovgs/Renderers,30,"What is the difference between these similar parts of the code: Method 1: areItemsTheSame, Method 2: areContentsTheSame?"
+167,pedrovgs/Renderers,31,How can we know this object RendererTest has been created and initialized correctly?
+168,pedrovgs/Renderers,32,"How are these types or objects related (e.g., whole-part relationships)?"
+169,pedrovgs/Renderers,33,"What are the arguments to this class's constructor ViewPagerActivity, if any?"
+170,pedrovgs/Renderers,34,"What are the arguments to this method add, if any?"
