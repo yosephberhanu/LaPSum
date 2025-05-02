@@ -1,0 +1,91 @@
+id,project,question_id,customized_quesstion
+1,wg/scrypt,1,Is there an entity named something like JarLibraryLoaderTest in the wg/scrypt?
+2,wg/scrypt,2,Is there an entity named something like package com.lambdaworks.codec in the wg/scrypt?
+3,wg/scrypt,3,Is there an entity named something like detectArch in the wg/scrypt?
+4,wg/scrypt,4,Is there an entity named something like Base64 in the package com.lambdaworks.jni.test?
+5,wg/scrypt,5,Is there an entity named something like scrypt_paper_appendix_b in the package com.lambdaworks.codec?
+6,wg/scrypt,6,Is there an entity named something like check in the LibraryLoaders?
+7,wg/scrypt,7,What are the parts of this wg/scrypt?
+8,wg/scrypt,8,What are the parts of this package com.lambdaworks.jni?
+9,wg/scrypt,9,What are the parts of this LibraryLoaders?
+10,wg/scrypt,10,How are instances of AbstractPlatformDetectionTest created and assembled?
+11,wg/scrypt,11,Who modified this package com.lambdaworks.jni most recently?
+12,wg/scrypt,12,Who modified this CryptoTestUtil most recently?
+13,wg/scrypt,13,When was this package com.lambdaworks.jni.test last modified?
+14,wg/scrypt,14,When was this PBKDF last modified?
+15,wg/scrypt,15,What does this wg/scrypt do?
+16,wg/scrypt,16,What was done in the most recent modification to this wg/scrypt?
+17,wg/scrypt,17,What was done in the most recent modification to this package com.lambdaworks.crypto.test?
+18,wg/scrypt,18,What was done in the most recent modification to this SCryptTest?
+19,groovy/groovy-core,1,Is there an entity named something like FloatArrayPutAtMetaMethod in the groovy/groovy-core?
+20,groovy/groovy-core,2,Is there an entity named something like package org.codehaus.groovy.runtime.wrappers in the groovy/groovy-core?
+21,groovy/groovy-core,3,Is there an entity named something like isTraitSelf in the groovy/groovy-core?
+22,groovy/groovy-core,4,Is there an entity named something like BinaryExpressionHelper in the package org.codehaus.groovy.tools.rootloadersync?
+23,groovy/groovy-core,5,Is there an entity named something like testDetectsFinalAbstractInterface in the package org.codehaus.groovy.ast?
+24,groovy/groovy-core,6,Is there an entity named something like visitConstructor in the LongInteger?
+25,groovy/groovy-core,7,What are the parts of this groovy/groovy-core?
+26,groovy/groovy-core,8,What are the parts of this package org.codehaus.groovy.syntax?
+27,groovy/groovy-core,9,What are the parts of this GenStubsAdapter?
+28,groovy/groovy-core,10,How are instances of CustomXmlParser created and assembled?
+29,groovy/groovy-core,11,Who modified this package org.codehaus.groovy.transform most recently?
+30,groovy/groovy-core,12,Who modified this ProxyGeneratorAdapter most recently?
+31,groovy/groovy-core,13,When was this package org.codehaus.groovy.runtime last modified?
+32,groovy/groovy-core,14,When was this GroovyShell last modified?
+33,groovy/groovy-core,15,What does this groovy/groovy-core do?
+34,groovy/groovy-core,16,What was done in the most recent modification to this groovy/groovy-core?
+35,groovy/groovy-core,17,What was done in the most recent modification to this package org.codehaus.groovy?
+36,groovy/groovy-core,18,What was done in the most recent modification to this TimeCategory?
+37,joestelmach/natty,1,Is there an entity named something like AbstractGrammarTest in the joestelmach/natty?
+38,joestelmach/natty,2,Is there an entity named something like package com.joestelmach.natty.grammar in the joestelmach/natty?
+39,joestelmach/natty,3,Is there an entity named something like getSourceName in the joestelmach/natty?
+40,joestelmach/natty,4,Is there an entity named something like DateTest in the package com.joestelmach.natty?
+41,joestelmach/natty,5,Is there an entity named something like int_1_to_9 in the package com.joestelmach.natty?
+42,joestelmach/natty,6,Is there an entity named something like testUpcomingHoliday in the SearchTest?
+43,joestelmach/natty,7,What are the parts of this joestelmach/natty?
+44,joestelmach/natty,8,What are the parts of this package com.joestelmach.natty?
+45,joestelmach/natty,9,What are the parts of this NattyTokenSource?
+46,joestelmach/natty,10,How are instances of ThreadSafetyTest created and assembled?
+47,joestelmach/natty,11,Who modified this package com.joestelmach.natty most recently?
+48,joestelmach/natty,12,Who modified this ANTLRNoCaseInputStream most recently?
+49,joestelmach/natty,13,When was this package com.joestelmach.natty last modified?
+50,joestelmach/natty,14,When was this RecurrenceTest last modified?
+51,joestelmach/natty,15,What does this joestelmach/natty do?
+52,joestelmach/natty,16,What was done in the most recent modification to this joestelmach/natty?
+53,joestelmach/natty,17,What was done in the most recent modification to this package com.joestelmach.natty?
+54,joestelmach/natty,18,What was done in the most recent modification to this AbstractGrammarTest?
+55,sstrickx/yahoofinance-api,1,Is there an entity named something like Utils in the sstrickx/yahoofinance-api?
+56,sstrickx/yahoofinance-api,2,Is there an entity named something like package yahoofinance.quotes.fx in the sstrickx/yahoofinance-api?
+57,sstrickx/yahoofinance-api,3,Is there an entity named something like getPrice in the sstrickx/yahoofinance-api?
+58,sstrickx/yahoofinance-api,4,Is there an entity named something like StockStats in the package yahoofinance.mock?
+59,sstrickx/yahoofinance-api,5,Is there an entity named something like getStockTimeZone in the package yahoofinance.quotes.csv?
+60,sstrickx/yahoofinance-api,6,Is there an entity named something like getRevenue in the FxQuoteRequestTest?
+61,sstrickx/yahoofinance-api,7,What are the parts of this sstrickx/yahoofinance-api?
+62,sstrickx/yahoofinance-api,8,What are the parts of this package yahoofinance.histquotes2?
+63,sstrickx/yahoofinance-api,9,What are the parts of this HistQuotes2Request?
+64,sstrickx/yahoofinance-api,10,How are instances of StockStats created and assembled?
+65,sstrickx/yahoofinance-api,11,Who modified this package yahoofinance.exchanges most recently?
+66,sstrickx/yahoofinance-api,12,Who modified this CrumbManager most recently?
+67,sstrickx/yahoofinance-api,13,When was this package yahoofinance.quotes.csv last modified?
+68,sstrickx/yahoofinance-api,14,When was this HistSplitsRequest last modified?
+69,sstrickx/yahoofinance-api,15,What does this sstrickx/yahoofinance-api do?
+70,sstrickx/yahoofinance-api,16,What was done in the most recent modification to this sstrickx/yahoofinance-api?
+71,sstrickx/yahoofinance-api,17,What was done in the most recent modification to this package yahoofinance.quotes.csv?
+72,sstrickx/yahoofinance-api,18,What was done in the most recent modification to this StockQuotesData?
+73,pedrovgs/Renderers,1,Is there an entity named something like SubObjectRenderer in the pedrovgs/Renderers?
+74,pedrovgs/Renderers,2,Is there an entity named something like package com.pedrogomez.renderers in the pedrovgs/Renderers?
+75,pedrovgs/Renderers,3,Is there an entity named something like hookListeners in the pedrovgs/Renderers?
+76,pedrovgs/Renderers,4,Is there an entity named something like MainActivity in the package com.pedrogomez.renderers.sample.ui.renderers?
+77,pedrovgs/Renderers,5,Is there an entity named something like getPrototypeClass in the package com.pedrogomez.renderers.exception?
+78,pedrovgs/Renderers,6,Is there an entity named something like inflate in the ListAdapteeCollection?
+79,pedrovgs/Renderers,7,What are the parts of this pedrovgs/Renderers?
+80,pedrovgs/Renderers,8,What are the parts of this package com.pedrogomez.renderers?
+81,pedrovgs/Renderers,9,What are the parts of this RendererException?
+82,pedrovgs/Renderers,10,How are instances of ListAdapteeCollectionTest created and assembled?
+83,pedrovgs/Renderers,11,Who modified this package com.pedrogomez.renderers.exception most recently?
+84,pedrovgs/Renderers,12,Who modified this MainActivity most recently?
+85,pedrovgs/Renderers,13,When was this package com.pedrogomez.renderers last modified?
+86,pedrovgs/Renderers,14,When was this Video last modified?
+87,pedrovgs/Renderers,15,What does this pedrovgs/Renderers do?
+88,pedrovgs/Renderers,16,What was done in the most recent modification to this pedrovgs/Renderers?
+89,pedrovgs/Renderers,17,What was done in the most recent modification to this package com.pedrogomez.renderers?
+90,pedrovgs/Renderers,18,What was done in the most recent modification to this ObjectRenderer?

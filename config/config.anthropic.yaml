@@ -1,0 +1,22 @@
+llms:
+  information_supervisor:
+    provider: anthropic
+    model: claude-3-7-sonnet-20250219
+  source_code:
+    provider: anthropic
+    model: claude-3-7-sonnet-20250219
+  information_git:
+    provider: anthropic
+    model: claude-3-7-sonnet-20250219
+  information_github:
+    provider: anthropic
+    model: claude-3-7-sonnet-20250219 
+  information_docs:
+    provider: anthropic
+    model: claude-3-7-sonnet-20250219
+  response:
+    provider: anthropic
+    model: claude-3-7-sonnet-20250219
+datasource:
+  database:
+    

@@ -1,0 +1,45 @@
+id,category,question
+1,Finding Initial Focus Points,"Is there an entity named something like this in that unit (e.g., project, package, or class)?"
+2,Finding Initial Focus Points,Is there a precedent or exemplar for this?
+3,Finding Initial Focus Points,Where in the code is the text in this error message or UI element?
+4,Finding Initial Focus Points,Where is there any code involved in the implementation of this behavior?
+5,Finding Initial Focus Points,Which type represents this domain concept or this UI element or action?
+6,Building on Focus Points,What are the parts of this type?
+7,Building on Focus Points,Which types is this type a part of?
+8,Building on Focus Points,Where does this type fit in the type hierarchy?
+9,Building on Focus Points,Does this type have any siblings in the type hierarchy?
+10,Building on Focus Points,Where is this field declared in the type hierarchy?
+11,Building on Focus Points,Who implements this interface or these abstract methods?
+12,Building on Focus Points,Where is this method called or type referenced?
+13,Building on Focus Points,When during the execution is this method called?
+14,Building on Focus Points,Where are instances of this class created?
+15,Building on Focus Points,Where is this variable or data structure being accessed?
+16,Building on Focus Points,What data can we access from this object?
+17,Building on Focus Points,What does the declaration or definition of this look like?
+18,Building on Focus Points,What are the arguments to this function?
+19,Building on Focus Points,What are the values of these arguments at runtime?
+20,Building on Focus Points,What data is being modified in this code?
+21,Understanding a Subgraph,How are instances of these types created and assembled?
+22,Understanding a Subgraph,"How are these types or objects related (e.g., whole-part relationships)?"
+23,Understanding a Subgraph,"How is this feature or concern (e.g., object ownership, UI control) implemented?"
+24,Understanding a Subgraph,What in this structure distinguishes these cases?
+25,Understanding a Subgraph,What is the behavior these types provide together and how is it distributed over the types?
+26,Understanding a Subgraph,What is the 'correct' way to use or access this data structure?
+27,Understanding a Subgraph,How does this data structure look at runtime?
+28,Understanding a Subgraph,How can data be passed to (or accessed at) this point in the code?
+29,Understanding a Subgraph,How is control getting (from here to) here?
+30,Understanding a Subgraph,Why isn't control reaching this point in the code?
+31,Understanding a Subgraph,Which execution path is being taken in this case?
+32,Understanding a Subgraph,Under what circumstances is this method called or exception thrown?
+33,Understanding a Subgraph,What parts of this data structure are accessed in this code?
+34,Questions Over Groups of Subgraphs,How does the system behavior vary over these types or cases?
+35,Questions Over Groups of Subgraphs,What are the differences between these files or types?
+36,Questions Over Groups of Subgraphs,"What is the difference between these similar parts of the code (e.g., between sets of methods)?"
+37,Questions Over Groups of Subgraphs,What is the mapping between these UI types and these model types?
+38,Questions Over Groups of Subgraphs,Where should this branch be inserted or how should this case be handled?
+39,Questions Over Groups of Subgraphs,Where in the UI should this functionality be added?
+40,Questions Over Groups of Subgraphs,"To move this feature into this code, what else needs to be moved?"
+41,Questions Over Groups of Subgraphs,How can we know this object has been created and initialized correctly?
+42,Questions Over Groups of Subgraphs,What will be (or has been) the direct impact of this change?
+43,Questions Over Groups of Subgraphs,What will be the total impact of this change?
+44,Questions Over Groups of Subgraphs,Will this completely solve the problem or provide the enhancement?

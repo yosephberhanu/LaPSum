@@ -1,0 +1,13 @@
+id,category,question
+1,"Finding Initial Focus Points","Is there an entity named something like this in that unit (e.g., project, package, or class)?"
+2,"Finding Initial Focus Points","Where is there any code involved in the implementation of this behavior?"
+3,"Building on Focus Points","What are the parts of this type?"
+4,"Building on Focus Points","Which types is this type a part of?"
+5,"Building on Focus Points","Where does this type fit in the type hierarchy?"
+6,"Building on Focus Points","Does this type have any siblings in the type hierarchy?"
+7,"Building on Focus Points","Who implements this interface or these abstract methods?"
+8,"Understanding a Subgraph","How are instances of these types created and assembled?"
+9,"History","Who modified this type most recently?"
+10,"History","When was this type last modified?"
+11,"Functionality","What does this project do?"
+12,"Functionality","What was done in the most recent modification to this type?"

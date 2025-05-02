@@ -1,0 +1,97 @@
+# === PYTHON ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# PyInstaller
+*.log
+*.pid
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing
+htmlcov/
+.tox/
+.coverage
+coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Pyre
+.pyre/
+
+# === JAVASCRIPT / NODE / TYPESCRIPT ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build output
+dist/
+build/
+.next/
+out/
+.cache/
+*.tsbuildinfo
+
+# TypeScript
+*.d.ts
+*.tsbuildinfo
+
+# Optional: Vite / Webpack / Nuxt / Svelte / etc.
+.vite/
+.nuxt/
+.svelte-kit/
+.storybook/
+temp/
+temp/**
+
+# === GENERAL IDE/OS FILES ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+
+# === LOCAL ENV FILES ===
+.env
+.env.local
+.env.*.local
+.env.test
+.env.production
+.envrc
+
+data/processed/
